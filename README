@@ -1,0 +1,3 @@
+Script to generate random data from a data dictionary described in a PMML model.
+
+I add new features as I go, right now it's yet limited to some types, but generally works for a variety of SPSS-generated PMML models. Feel free to use and / or contribute.
